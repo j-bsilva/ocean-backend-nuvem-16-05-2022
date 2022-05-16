@@ -22,7 +22,7 @@ async function main() {
 
   // Criação do endpoint principal
   app.get("/", function (req, res) {
-    res.send("Hello World");
+    res.send("Hello WorldPrimeiro ");
   });
 
   // Heróis e Heroínas
